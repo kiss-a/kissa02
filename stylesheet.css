@@ -7,8 +7,12 @@ body{
 .PageTop{
     background-image: url(pagetop2_img.jpg);
     background-repeat:  no-repeat;
+    background-size: cover;
     height: 930px;
-    text-align: center;
+}
+.PageTop p{
+    font-size: 64px;
+    margin: 500px 0 400px 200px;
 }
 .Pagetop_title{
     padding: 0 20px 0 40px;
@@ -35,8 +39,4 @@ body{
     font-size: 20px;
     text-align: center;
     margin: 0 15px 0 15px;
-}
-.PageTop img{
-    height: auto;
-    width: 100%;
 }
