@@ -1,18 +1,20 @@
 html{
-    
+    font-family: 'Times New Roman',sans-serif;
 }
 body{
     margin: 0 auto;
 }
 .PageTop{
     background-image: url(pagetop2_img.jpg);
-    background-repeat:  no-repeat;
+    background-repeat: no-repeat;
     background-size: cover;
     height: 930px;
 }
 .PageTop p{
     font-size: 64px;
     margin: 20% 0 30% 10%;
+    font-style: italic;
+    text-shadow: 30px 15px 5px #808080;
 }
 .Pagetop_title{
     padding: 0 20px 0 40px;
