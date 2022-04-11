@@ -7,6 +7,7 @@ body{
 .PageTop{
     background-image: url(pagetop2_img.jpg);
     height: 930px;
+    text-align: center;
 }
 .Pagetop_title{
     padding: 0 20px 0 40px;
