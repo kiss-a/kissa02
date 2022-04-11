@@ -35,5 +35,7 @@ body{
     margin: 0 15px 0 15px;
 }
 .PageTop img{
+    display: block;
+    margin: auto;
     height: auto;
 }
