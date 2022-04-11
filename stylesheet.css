@@ -6,6 +6,7 @@ body{
 }
 .PageTop{
     background-image: url(pagetop2_img.jpg);
+    background-repeat:  no-repeat;
     height: 930px;
     text-align: center;
 }
@@ -37,5 +38,4 @@ body{
 }
 .PageTop img{
     height: auto;
-    width: auto;
 }
